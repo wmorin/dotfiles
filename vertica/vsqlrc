@@ -1,0 +1,3 @@
+-- vertica specific
+-- SET SESSION AUTOCOMMIT = ON;
+
